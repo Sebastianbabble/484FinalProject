@@ -1,0 +1,15 @@
+.todo__list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 700px;
+  border: 1px solid lightgray;
+  margin-bottom: 10px !important;
+  margin-top: 30px !important;
+}
+
+.notes {
+  margin-top: 30px !important;
+  display: grid;
+  place-items: center;
+}
